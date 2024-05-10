@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #F6E2C1;
+}
+
+header {
+    background-color: #FFDA9E;
+    display: flex;
+    justify-content: space-around;
+    padding: 12px 0px;
+}
+
+.titulo-lema {
+    list-style-type: none;
+}
+
+.links-do-topo-item {
+    display: inline-block;
+    margin: 0 16px;
+}
+
+.receita-foto {
+   width: 20%; 
+} 
+
+ main {
+    margin: 10px 100px;
+ }
+
+ .ingredientes {
+    padding: 10px 20px;
+ }
+
+ .modo-de-preparo {
+    padding: 10px 20px;
+ }
+
+ .titulo-lema {
+    list-style-type: none;
+ }
+
+ * {
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+}
+
+.titulo-cabecalho {
+font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.links-do-topo-item {
+    display: inline-block;
+    margin 0 16px;
+    font-size: 20px;
+}
+
+.lema-do-site {
+    font-size: 20px;
+}
+
+.item-modo-de-preparo {
+    padding:  0 0 30px 0;
+}
+
+ footer {
+    background-color: #FFDA9E;
+    text-align: center;
+ }
+
+ footer p {
+    font-size: 20px;
+ }
